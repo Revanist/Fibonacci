@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1572283735 source:c:\users\samet\desktop\yeni klasör\juju\main.c
+	<stdio.h>
+	<stdlib.h>
+
